@@ -1,1 +1,1 @@
-# lecture_gas
+# GAS講座
